@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OfflineNotes:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OfflineNotes_jar</output-path>
+    <root id="archive" name="OfflineNotes.jar">
+      <element id="module-output" name="OfflineNotes" />
+    </root>
+  </artifact>
+</component>

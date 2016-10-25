@@ -1,0 +1,29 @@
+.tree-view{
+-fx-background-color: whitesmoke;
+}
+
+.list-view{
+    -fx-background-color: whitesmoke;
+    -fx-border-color: whitesmoke;
+}
+
+.list-cell{
+    -fx-background-color: whitesmoke;
+}
+
+.list-cell:filled:selected:focused{
+    -fx-background-color: #0095c8;
+}
+.list-cell:filled:selected{
+    -fx-background-color: #0095c8;
+}
+
+.separator:horizontal .line {
+    -fx-border-color: gray gray gray gray;
+}
+
+.tooltip{
+    -fx-background-radius: 0 0 0 0;
+    -fx-background-color:  linear-gradient(transparent  , gray  );
+}
+
